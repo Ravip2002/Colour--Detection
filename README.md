@@ -1,1 +1,1 @@
-# Colour--Detection
+# Color-Detection
